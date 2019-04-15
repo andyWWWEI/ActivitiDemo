@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/controller/DeployController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/controller/GroupController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/controller/LeaveController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/controller/ProcessDefinitionController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/controller/TaskController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/controller/UserController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/dao/GroupDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/dao/LeaveDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/dao/MemberShipDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/dao/UserDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/model/Group.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/model/Leave.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/model/MemberShip.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/model/MyTask.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/model/PageInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/model/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/service/GroupService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/service/LeaveService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/service/MemberShipService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/service/UserService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/service/impl/GroupServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/service/impl/LeaveServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/service/impl/MemberShipServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/service/impl/UserServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/util/DateJsonValueProcessor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/activiti/util/StringUtil.java" charset="UTF-8" />
+  </component>
+</project>
